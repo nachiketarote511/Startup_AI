@@ -1,0 +1,10 @@
+datasets/
+models/
+.venv/
+.vscode/
+
+__pycache__/
+.ipynb_checkpoints/
+
+*.pkl
+*.joblib
